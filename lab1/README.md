@@ -10,7 +10,7 @@ module2.py — вибір числа від 1 до 100 горизонтальн�
 python Lab2.py
 ```
 
-Підготовка EXE (перед цим закрий запущений Lab1.exe):
+Підготовка EXE (перед цим закрити запущений Lab1.exe):
 ```powershell
 python -m PyInstaller --onefile --windowed --name Lab1 Lab2.py
 ```
